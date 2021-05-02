@@ -5,7 +5,7 @@
 
 ## Part 1:
 
-LINK TO YOUR PUBLISHED SITE
+[PUBLISHED SITE](https://berkeleyerwin.github.io/Lab5/)
 
 ## Part 2:
 
